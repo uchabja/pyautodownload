@@ -1,0 +1,5 @@
+# Example links.txt file, clear the file and make your own list.
+examplelink1.com/expamlefile1.pdf
+examplelink2.net/expamlefile2.png
+examplelink3.com/expamlefile3.jpg
+# one link to each line, do not use ' or " in links.
